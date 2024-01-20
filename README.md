@@ -1,2 +1,2 @@
-# App for virtual Asistent "Larry"
+# Virtual asistent App "Larry"
 WORKINNG ON...
